@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anushkamisal
 - 👀 I’m interested in coding 
 - 🌱 I’m currently pursuing BE in Computer Science at PCCOE
-- 📫 How to reach me anushkamisal@gmail.com
+- 📫 Reach me out through anushkamisal@gmail.com
 
 <!---
 anushkamisal/anushkamisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
