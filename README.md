@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anushkamisal
 - 👀 I’m interested in coding 
-- 🌱 I’m currently pursuing BE in Computer Science at PCCOE
+- 🌱 I’m currently pursuing BE in Computer Science
 - 📫 Reach me out through anushkamisal@gmail.com
 
 <!---
